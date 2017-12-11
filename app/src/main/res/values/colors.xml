@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 标题背景颜色 -->
+    <color name="colorPrimary">#23262f</color>
+    <!-- 标题字体颜色 -->
+    <color name="textColorPrimary">#ffffff</color>
+    <!-- 通知栏背景颜色 -->
+    <color name="colorPrimaryDark">#23262f</color>
+    <!-- 各控制元件(如：EditText光标、check box、switch 或是 radoi) 被勾选 (checked) 或是选定 (selected) 的颜色 -->
+    <color name="colorAccent">#9000B8</color>
+
+    <!-- 白色 -->
+    <color name="white">#ffffff</color>
+
+    <!-- title textColor-->
+    <color name="title_text">#333333</color>
+    <color name="black_21">#212121</color>
+
+    <color name="default_background" >#eff3f5</color>
+    <color name="tab_selected">#ff0000</color>
+    <color name="tab_normal">#000000</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_half">#80000000</color>
+    <color name="transparent_33">#33000000</color>
+
+    <color name="global_white_half_transparent">#80FFFFFF</color>
+    <color name="global_transparent">#66000000</color>
+    <color name="global_black_color">#333333</color>
+    <color name="global_grey_black_color">#666666</color>
+    <color name="global_red_color">#fd5353</color>
+    <color name="global_grey_bth_color">#b7b7b7</color>
+    <color name="global_label_color">#999999</color>
+    <color name="gray_cd">#cdcdcd</color>
+    <color name="global_hint_color">#cccccc</color>
+    <color name="global_blue_label_color1">#ff8f00</color>
+    <color name="global_blue_label_color2">#35A7E9</color>
+
+    <color name="global_back_black_color">#f2f2f2</color>
+    <!-- 通用线条颜色-->
+    <color name="global_line_color">#E6E4EA</color>
+
+    <color name="global_white_color">#ffffff</color>
+
+    <color name="global_grey_divider_color">#e6e6e6</color>
+
+    <color name="progressbar_horizontal">#ffffff</color>
+
+    <color name="btn_gray">#d9d9d9</color>
+
+
+    <!-- 主题红色 -->
+    <color name="theme_color">#9000B8</color>
+    <color name="theme_color_transparent_5">#7fff8f00</color>
+    <color name="btn_press_color">#ff0000</color>
+    <color name="theme_background_color">#eff3f5</color>
+    <color name="theme_line_color">#e6e6e6</color>
+    <color name="theme_gray">#b7b7b7</color>
+    <color name="dialog_cancel">#f0f0f0</color>
+
+    <!-- 首页天数颜色 -->
+    <color name="ad_color_yellow">#9000B8</color>
+    <!-- 首页倒计时颜色 -->
+    <color name="color_yellow">#ffbb17</color>
+
+    <!-- 地图颜色 -->
+    <color name="amap_transparent_theme_color">#664ab6fa</color>
+
+    <!--还款页面颜色-->
+    <color name="repayment_black3_3">#333</color>
+    <color name="repayment_black3_6">#666</color>
+    <color name="repayment_black3_9">#999</color>
+    <color name="repayment_status">#ff8003</color>
+
+    <!-- 广告页颜色 -->
+    <color name="auth_bottom_green_color">#04E844</color>
+    <color name="rippelColor">#FFFFFF</color>
+
+    <!-- **************************自定义仿IOS的AlertDialog的样式************************** -->
+    <color name="trans">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <!-- **************************自定义仿IOS的AlertDialog的样式************************** -->
+
+    <color name="black_3b">#3b3b3b</color>
+    <color name="black_43">#434343</color>
+    <color name="black_6">#666666</color>
+    <color name="black_75">#757575</color>
+    <color name="black_52">#525252</color>
+
+    <color name="black_3">#333</color>>
+    <color name="black_9">#999</color>
+
+    <color name="loading_text">#666666</color>
+    <color name="color_356BFE">#356bfe</color>
+    <color name="color_EEEEEE">#EEEEEE</color>
+    <!--<color name="color_D6AD62">#D6AD62</color>
+    <color name="color_D6B06A">#D6B06A</color>
+    <color name="color_D2A95E">#D2A95E</color>-->
+    <color name="color_B2B2B2">#B2B2B2</color>
+    <color name="color_9B9B9B">#9B9B9B</color>
+    <color name="color_3C3342">#3C3342</color>
+    <color name="color_323232">#323232</color>
+    <color name="color_3C383F">#3C383F</color>
+    <color name="color_001A00">#001A00</color>
+    <color name="color_E1D7CD">#E1D7CD</color>
+    <color name="color_60_E1D7CD">#99E1D7CD</color>
+    <color name="color_BFBFBF">#BFBFBF</color>
+    <color name="color_888391">#888391</color>
+    <color name="color_FB6262">#FB6262</color>
+
+    <color name="color_D7D5D0">#D7D5D0</color>
+    <color name="color_E6E4EA">#E6E4EA</color>
+    <color name="color_F35B5A">#F35B5A</color>
+    <color name="color_F3EFEB">#F3EFEB</color>
+
+    <!--<drawable name="cursor_color">#D6B06A</drawable>-->
+    <drawable name="image_default_new">#D7D5D0</drawable>
+</resources>
